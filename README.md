@@ -11,7 +11,7 @@
 
 ##Commands you need 
 * git pull
-* git add *.*
+* git add "*.*"
 * git commit -m "some work"
 * git push
 
