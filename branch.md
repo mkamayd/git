@@ -1,31 +1,30 @@
 #Branch and merge locally
-1. Create a new branch
+##Create a new branch
 ```
 git branch new-branch
 
 ```
-2. Move to that branch
+##Move to that branch
 ```
 git checkout new-branch
 
 ```
-3. Do some work 
+##Do some work 
 ```
+//some work
 git add *.*
 git commit -m "some work"
 
 ```
-4. Go back to main branch. 
+##Go back to main branch and merge. 
 ```
 git checkout master
 git merge new-branch
-\\done
+//you are done :)
 git log
 
 ```
-
-
-
+## To know were are you.
 ```
 git branch
 
