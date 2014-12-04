@@ -9,4 +9,12 @@
 
 [more info in pluralsight](http://www.pluralsight.com/training/player?author=esteban-garcia&name=git-visual-studio-developers-m1-introduction&mode=live&clip=0&course=git-visual-studio-developers)
 
-git pull
+##Commands you need 
+
+
+##Want to learn more?
+* [stash](https://github.com/mkamayd/git/blob/master/stash.md)
+* [markdown](https://github.com/mkamayd/git/blob/master/markdown.md)
+
+
+
