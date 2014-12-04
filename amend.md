@@ -6,4 +6,8 @@
 5. git status/git log
 * Smile. Happy days again :)
 
+```
+git commit --amend
+```
+
 [back](https://github.com/mkamayd/git)
