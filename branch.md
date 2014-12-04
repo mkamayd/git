@@ -24,7 +24,7 @@ git merge new-branch
 git log
 
 ```
-### To know were are you.
+### To know were you are.
 ```
 git branch
 
