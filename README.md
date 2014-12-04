@@ -8,3 +8,5 @@
 6. Push
 
 [more info in pluralsight](http://www.pluralsight.com/training/player?author=esteban-garcia&name=git-visual-studio-developers-m1-introduction&mode=live&clip=0&course=git-visual-studio-developers)
+
+git pull
