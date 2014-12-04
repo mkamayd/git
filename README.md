@@ -4,7 +4,7 @@
 3. Commit Locally (multiple times)
   * Possibly [branch and merge locally](https://github.com/mkamayd/git/blob/master/branch.md) 
 4. Pull (resolve conflicts)
-5. Test all is ok as your about to share with the team.
+5. Test all is ok as you are about to share with the team.
 6. Push
 
 ##Commands you need 
