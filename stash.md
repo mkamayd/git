@@ -5,4 +5,11 @@
 4. Demo with previous working local version
 5. git stash apply (keep working as before the interruption)
 
+```
+...
+git stash
+...
+git stash apply
+```
+
 [back](https://github.com/mkamayd/git)
